@@ -49,9 +49,7 @@ form.addEventListener('submit', function (e) {
 
   console.log('>>>>>><<<<<< The Shows the Content of FormData In Console ', [...payload]) //This code will log to console for you to have a look at the payload
   let extractedPayload = [...payload]
-  // let user= extractedPayload[0][0]
   let userValue = extractedPayload[0][1]
-  // let score = extractedPayload[1][0]
   let scoreValue = extractedPayload[1][1]
 
   // Create an Object to Stringify
