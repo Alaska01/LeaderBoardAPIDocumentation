@@ -1,6 +1,11 @@
 # Tutorial on Leaderboard API from Microverse
 
-- To run this project on your local system run `$ npx live-server .`
+# VIDEO Documentation
+-[VIDEO](https://www.youtube.com/watch?v=nDz4sDN9sPk)
+
+# Start Project
+
+- To run this project on your local system run `$ npx live-server .` or `$ npx live-server`
 - This is purely JavaScript Code, No webpack
 
 # How To POST, GET data from LeaderBoad API Service

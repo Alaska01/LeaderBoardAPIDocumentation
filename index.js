@@ -2,7 +2,7 @@ const btn = document.querySelector(".btn-click");
 const form = document.getElementById("form");
 
 const userdatails = document.getElementById('user-details');
-const apiKey = 'Hq9Hg5Ka0RmPyMTBG5Ig'; // This is the Key for your game from Curl Command
+const apiKey = '8EZFHwIXwYOGYYlouxK6'; // This is the Key for your game from Curl Command
 
 url = `https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/${apiKey}/scores/`;
 
