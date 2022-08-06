@@ -1,7 +1,7 @@
 # Tutorial on Leaderboard API from Microverse
 
 # VIDEO Documentation
-- [VIDEO](https://www.youtube.com/watch?v=nDz4sDN9sPk)
+[VIDEO](https://www.youtube.com/watch?v=nDz4sDN9sPk)
 
 # Start Project
 
