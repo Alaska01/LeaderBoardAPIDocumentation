@@ -11,7 +11,7 @@
 # How To POST, GET data from LeaderBoad API Service
 - Leaderboad [Link](https://www.notion.so/Leaderboard-API-service-24c0c3c116974ac49488d4eb0267ade3)
 - You need to create a unique key for your game, so that you can post to it and read data from your game
-- To create **UNIQUE ID** for your **GAME** use the curl command in your terminal with the API endpoint as shown, ensure to change the name from Gladiators to a Unique name of your choice `$ curl -X POST -d 'name=Nancy' https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/
+- To create **UNIQUE ID** for your **GAME** use the curl command in your terminal with the API endpoint as shown, ensure to change the name from Gladiators to a Unique name of your choice `$ curl -X POST -d 'name=Gladiators' https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/
 `
 - You will get a response like this in the terminal `{"result":"Game with ID: NvYHfEPmQZtyuBJeIesV added."}aye@aye-HP-EliteBook-850-G3:~$ ` the message shows you have successfully created a user. Below is a Screenshot of how  your response should be
 
