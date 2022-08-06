@@ -48,3 +48,4 @@
         body: JSON.stringify(payloadObject)
     }`
 
+- Feel free to look at how to set headers using this API [link](https://rapidapi.com/digiwalls/api/free-to-play-games-database)
